@@ -1,0 +1,1 @@
+this repo is for my expirementations with Angular 18, which I need to learn quickly for my project (at my job)
